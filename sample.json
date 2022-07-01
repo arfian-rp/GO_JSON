@@ -1,0 +1,6 @@
+{
+  "name": "Richard",
+  "age": 17,
+  "hobby": ["race"],
+  "Address": { "country": "USA" }
+}

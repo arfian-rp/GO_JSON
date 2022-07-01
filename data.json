@@ -1,0 +1,8 @@
+{
+  "name": "Alexandre",
+  "age": 36,
+  "hobby": ["swim", "read"],
+  "address": {
+    "country": "Indonesia"
+  }
+}
